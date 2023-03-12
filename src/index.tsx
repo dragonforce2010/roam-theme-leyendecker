@@ -3,6 +3,7 @@ import './leyendecker.css'
 
 
 function onload() {
+  document.body.className = 'leyendecker'
 }
 
 function onunload() {
